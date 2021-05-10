@@ -1,0 +1,3 @@
+|respuesta|0|Pregunta|respuesta|tema|0
+|Pregunta|Respuesta|Tema|0
+|Animate a sufrir|No, no me gusta el pan|Te gustan el pan?|0
